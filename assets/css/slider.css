@@ -1,0 +1,112 @@
+.item-pub
+{
+	 background-image: url("../images/home_slider/PUB.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-ac
+{
+	 background-image: url("../images/home_slider/AC.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+ .item-part
+{
+     background-image: url("../images/home_slider/background.png");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-it
+{
+	 background-image: url("../images/home_slider/IT.jpeg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-hr
+{
+	 background-image: url("../images/home_slider/HR.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-smm
+{
+	 background-image: url("../images/home_slider/SMM.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-mp
+{
+	 background-image: url("../images/home_slider/MP.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-cr
+{
+	 background-image: url("../images/home_slider/CR.png");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     opacity: 70%;
+}
+.item-pr
+{
+	 background-image: url("../images/home_slider/PR.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;    opacity: 70%;
+}
+.item-fr
+{
+	 background-image: url("../images/home_slider/FR.jpg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}
+.item-log
+{
+	 background-image: url("../images/home_slider/LOG.jpeg");
+    /* Full height */
+    height: 600px; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ opacity: 70%;}

@@ -1,0 +1,538 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+	margin: 0;
+    padding:0; 
+    overflow-x: hidden;
+    background-color: #ebebeb;
+    
+
+
+}
+
+.er-highboard {
+    transition: 0.2s ease-in-out;
+    transform: rotate(0);
+    border:0;
+}
+.er-highboard:hover {
+
+    border:2px solid #00005B;
+}
+.hr-highboard {
+    transition: 0.2s ease-in-out;
+    transform: rotate(0);
+    border:0;
+}
+.hr-highboard:hover {
+    border:2px solid #00005B;
+}
+.ac-highboard {
+    transition: 0.2s ease-in-out;
+    transform: rotate(0);
+    border:0;
+}
+.ac-highboard:hover {
+    border:2px solid #00005B;
+}
+.tc-highboard {
+    transition: 0.2s ease-in-out;
+    transform: rotate(0);
+    border:0;
+    margin-left: 35px;
+
+}
+.tc-highboard:hover {
+    border:2px solid #00005B;
+}
+.modal-title {
+    margin: 0;
+    line-height: 1.42857143;
+    color: #00005B;
+   
+}
+.h4, h4 {
+    font-size: 18px;
+    padding: 4px;
+}
+.h5, h5 {
+    font-size: 14px;
+    color: #00005B;
+    padding: 4px;
+}
+
+body { 
+	margin: 0;
+    padding:0; 
+    overflow-x: hidden;
+    background-color: #ebebeb;
+	font-family: 'Lato', sans-serif;
+}
+
+#theHeader {
+	min-height: 60px;
+	background: white;
+	border-bottom: 3px solid #c52525;
+}
+
+#theFooter{
+	margin-bottom: 0;
+	height: 60px;
+	background: white;
+	border-top: 3px solid #c52525;
+}
+.theLogo{
+	width: 60px;
+}
+#theRightLinks{
+	font-size: 16px;
+
+}
+#theRightLinks li a{
+	color: #00005B;
+	font-weight: bold;
+	text-align: center;
+}
+#theRightLinks li a:hover{
+	color: #c52525;
+}
+
+.pageSelected a{
+	color: #c52525 !important;
+}
+
+.dropdown-menu li a{
+	font-size: 14px;
+	color: #00005B;
+	font-weight: bold;
+	text-align: center;
+
+}
+#landingPage{
+	background-image: url('../images/background.jpg');
+	background-position: center center;
+	height: 650px;
+	text-align: center;
+	background-size: cover;
+}
+.mainImgScci{
+	width: 250px;
+	margin-top: 75px;
+	margin-left: 35%;
+}
+.sloganBackground{
+
+	margin-top: 75px;
+	margin: 50px auto 50px 300px;
+	background-color: white;
+
+	opacity: 0.7;
+	border: 1px solid black;
+	border-radius:10px;
+}
+.theLogo{
+	margin-left: 30px !important;
+}
+.theLogo img{
+
+}
+
+.Slogan{
+	margin-top: 20px;
+	font-family: Calibri;
+	color:white;
+	font-weight: bold;
+	font-size: 35px;
+	
+}
+
+.backgroundImg{
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 100% !important;
+	
+}
+.ourButton{
+	margin-top: 30px;
+	width:200px;
+	background-color: inherit;
+	height: 40px;
+	border: 2px solid white;
+	color: white;
+	font-size: 18px;
+	font-family: Calibri ;
+	font-weight: bold;
+
+}
+.ourButton:hover{
+	color: white;
+	background-color: #c52525;
+	border: 0;
+}
+.workshopsAndCrew{
+	font-size: 18px;
+	color: #083954;
+	font-weight: bold;
+	padding-top: 100px;
+	padding-bottom: 120px;
+
+}
+@media (max-width: 767px) {
+	.workshopsMainPageSection{
+		padding-top: 50px;
+	}
+}
+
+.admit {
+	margin-bottom: 30px;
+}
+
+.thirdButton{
+	margin-top: 10px;
+	width: 250px;
+	height: 40px;
+	border: 1px solid #083954;
+	border-radius: 0;
+	font-size: 18px;
+	background-color: inherit;
+}
+.thirdButton1{
+	margin-top: 120px;
+	background-color: inherit;
+	color: #083954;
+	width: 220px;
+	height: 40px;
+	border: 1px solid black;
+	border-radius: 0;
+	font-size: 22px;
+	font-weight: bold;
+}
+.thirdButton:hover{
+	background-color: #083954;
+	color: white;
+}
+
+.thirdButton1:hover{
+	background-color: #083954;
+	color: white;
+}
+
+@media(max-width:425px){
+	.thirdButton1{
+		margin-top:120px;
+	}
+}
+
+#description{
+	font-size: 16px;
+	font-weight: bold;
+}
+.workshops center{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.lastPart{
+	background: #444444;
+	padding-bottom: 50px;
+}
+.text-center{
+	border-bottom :  2px solid #ebebeb;
+	margin-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #aaa;
+}
+
+.contactForm{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+.sponsorImage{
+	background-image: url('../images/sponsors/sponsors.jpg');
+	background-position: center center;
+	height: 300px;
+	text-align: center;
+	background-size: cover;
+}
+#sponsers,#contact-us,#map{
+	margin-top: 50px;
+}
+
+
+.socialLinks li i{
+	font-size: 16px;
+	color: #00005B; 
+}
+.socialLinks li i:hover{
+	color: #C52525;
+}
+
+.copywrights{
+	font-size: 14px;
+	color: #00005B;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+/*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops */
+
+
+.pageTitle{
+	margin-top: 60px;
+	margin-bottom: 20px;
+	font-size: 50px;
+	font-weight: bolder;
+	color: #fff;
+	text-transform: capitalize;
+
+	font-family: Comic Sans;
+}
+
+.appsplash{
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+    width: inherit;
+}
+.devology{
+   
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+     width: inherit;
+    text-align: left;
+    
+}
+.markative{
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+    width: inherit;
+}
+.investeneur{
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+    width: inherit;
+}
+.techsolve{
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+    width: inherit;
+    
+}
+
+.allWorkshops .row{
+	margin-bottom: 50px;
+    
+}
+.allWorkshops .row img{
+	margin-bottom: 10px;
+	padding: auto;
+   
+    
+}
+.allWorkshops .row img:hover{
+    
+    cursor: pointer;
+}
+#ws p
+{
+    
+	font-size:16px;
+	text-align: left;
+	width: 70%;
+	margin:0px auto;
+	font-family: 'Fun Crayon';
+	font-weight: bold;
+}
+
+
+
+#ws
+{
+
+	padding: 10px;
+	margin-bottom: 30px;
+	
+}
+
+
+/* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */
+
+.allHeads{
+	margin-top: 120px;
+	margin-bottom: 30px;
+}
+.er,.ac,.hr,.tc {
+
+	cursor: pointer;
+}
+
+.tc {
+	margin-left: 40px;
+}
+.ac {
+	margin-right: 40px;
+}
+
+.erheads,.tcheads .row div{
+	cursor: pointer;
+}
+
+@media(max-width:767px){
+	.hr{
+		margin-left: 20px;
+	}
+	.er{
+		margin-right: 20px;
+	}
+	.tc{
+		margin-left: 20px;
+	}
+	.ac{
+		margin-right: 20px;
+	}
+	.tcheads .row div{
+		max-height: 182px;
+		margin-bottom: 10px;
+	}
+	.pub-modal .modal-body .row div{
+		max-height: 152px;
+		margin-bottom: 20px;
+	}
+	.ac-modal .modal-body .row div{
+		max-height: 152px;
+		margin-bottom: 10px;
+	}
+}
+
+.col-md-5{
+	z-index: 9;
+}
+#crewDescription{
+	font-size: 16px;
+	color: #00005B;
+	font-weight: bold;
+	text-align: center;
+}
+
+.erheads,.tcheads{
+	margin-bottom: 20px;
+	display: none;
+}
+
+
+
+
+/* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT */
+
+
+.aboutsec{
+    background-image: url('../images/about last 2.jpg');
+	background-position: center center;
+	background-size:  cover;
+    background-attachment: fixed;
+    
+}
+.aboutpage
+{
+    text-align: center;
+
+}
+.aboutpage img
+{
+    width: 20%;
+    margin-top: 50px;
+    
+}
+
+
+.aboutpage .abouttitle{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+	font-weight: bold;
+    margin-top: 20px;
+    font-family: calibri;
+    padding: 50px;
+    border-bottom: solid #c52525 1px;
+    margin-bottom: 20px;
+    
+    }
+
+.icons{
+    color: #fff;
+    font-size: 18px;
+    padding-top: 10px;
+    display: inline-block;
+    
+ 
+    
+}
+.icons h3{
+    text-align: center;
+}
+
+.text{
+        margin: 0px auto;
+        width: 80%;
+        
+    padding-top: 20px;
+        text-align: left;
+        font-weight: bold;
+        
+}
+.fa.fa-angle-down {
+    font-size: 28px;
+    color: #333;
+    animation: updown 0.8s infinite ease-in-out;
+}
+@keyframes updown {
+    
+    0% {
+        transform: translateY(4px)
+    }
+    100% {
+    transform:translateY(-4px);
+    }
+    
+    
+}
+#wc
+{
+	background-image: url('../images/bg.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#wcheader h1 
+{
+	font-size:40px;
+	color:#c52525;
+}
+
+#wcheader p 
+{
+	font-size:22px;
+	color :#00005B;
+}
+
+
+/*  History  History  History  History  History  History  History  History  History  History  */
+
+.historyModal h4{
+	color:black;
+	font-family: Calibri;
+}
+
+body
+{
+
+}

@@ -1,0 +1,674 @@
+body { 
+
+	margin: 0;
+
+    padding:0; 
+
+    overflow-x: hidden;
+
+    
+
+}
+
+center {
+
+	padding : 20px;
+}
+
+
+
+#theHeader {
+
+	min-height: 60px;
+
+	background: white;
+
+	border-bottom: 2px solid #c52525;
+
+}
+
+
+
+#theFooter{
+
+	margin-bottom: 0;
+
+	height: 60px;
+
+	background: white;
+
+	border-top: 1px solid #c52525;
+
+}
+
+.theLogo{
+
+	width: 60px;
+
+}
+
+#theRightLinks{
+
+	font-size: 16px;
+
+
+
+}
+
+#theRightLinks li a{
+
+	color: #00005B;
+
+	font-weight: bold;
+
+	text-align: center;
+
+}
+
+#theRightLinks li a:hover{
+
+	color: #c52525;
+
+}
+
+.dropdown-menu li a{
+
+	font-size: 14px;
+
+	color: #00005B;
+
+	font-weight: bold;
+
+	text-align: center;
+
+
+
+}
+
+#landingPage{
+
+	background-image: url('../images/background.jpg');
+
+	background-position: center center;
+
+	height: 650px;
+
+	text-align: center;
+
+}
+
+.mainImgScci{
+
+	width: 250px;
+
+	margin-top: 75px;
+
+	margin-left: 35%;
+
+}
+
+.sloganBackground{
+
+	width: 55% !important;
+
+	margin-top: 75px;
+
+	margin: 50px auto 50px 300px;
+
+	background-color: white;
+
+	width: 30%;
+
+	opacity: 0.7;
+
+	border: 1px solid black;
+
+	border-radius:10px;
+
+}
+
+.theLogo{
+
+	margin-left: 30px !important;
+
+}
+
+
+
+.Slogan{
+
+	font-family: 'Martel Sans', sans-serif;
+
+	color:white;
+
+	font-size: 32px;
+
+	
+
+}
+
+
+
+.backgroundImg{
+
+	background-repeat: no-repeat;
+
+	height: 600px;
+
+	width: 100% !important;
+
+	
+
+}
+
+.ourButton{
+
+	margin-top: 40px;
+
+	background: #C52525;
+
+	width: 250px;
+
+	height: 40px;
+
+	border-radius: 0px;
+
+	font-size: 18px;
+
+
+
+}
+
+.ourButton:hover{
+
+	background: #ea1e1e ;
+
+	border: 0;
+
+}
+
+.workshopsAndCrew{
+
+	background: white;
+
+	font-size: 18px;
+
+	color: #083954;
+
+	font-weight: bold;
+
+	padding-top: 50px;
+
+	padding-bottom: 70px;
+
+
+
+}
+
+.workshopsAndCrew .row div {
+
+	margin-top: 50px;
+
+	margin-bottom: 30px;
+
+
+
+}
+
+.thirdButton{
+
+	margin-top: 10px;
+
+	background: white;
+
+	width: 250px;
+
+	height: 40px;
+
+	border: 1px solid #083954;
+
+	border-radius: 0;
+
+	font-size: 18px;
+
+}
+
+.thirdButton:hover{
+
+	background-color: #083954;
+
+	color: white;
+
+}
+
+
+
+#description{
+
+	font-size: 16px;
+
+	font-weight: bold;
+
+}
+
+.workshops center{
+
+	margin-top: 60px;
+
+	margin-bottom: 60px;
+
+}
+
+.lastPart{
+
+	background: #444444;
+
+	padding-bottom: 50px;
+
+}
+
+.text-center{
+
+	border-bottom :  2px solid #c52525;
+border-top :  2px solid #c52525;
+	margin-top: 15px;
+padding: 16px;
+	padding-bottom: 15px;
+
+	font-size: 25px;
+
+	font-weight: bold;
+
+	color: #00005b;
+
+}
+
+
+
+.contactForm{
+
+	width: 100%;
+
+	height: 100%;
+
+	text-align: center;
+
+}
+
+#sponsers,#contact-us,#map{
+
+	margin-top: 50px;
+
+}
+
+
+
+
+
+.socialLinks li i{
+
+	font-size: 16px;
+
+	color: #00005B; 
+
+}
+
+.socialLinks li i:hover{
+
+	color: #C52525;
+
+}
+
+
+
+.copywrights{
+
+	font-size: 14px;
+
+	color: #00005B;
+
+	font-weight: bold;
+
+	margin-top: 20px;
+
+}
+
+
+
+/*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops *//*  Workshops */
+
+
+
+
+
+.pageTitle{
+
+	margin-top: 40px;
+
+	margin-bottom: 60px;
+
+	font-size: 24px;
+
+	font-weight: bold;
+
+	color: #00005B;
+
+}
+
+
+
+.appsplash{
+
+	font-size: 14px;
+
+	color: #036FCA;
+
+	font-weight: bold;
+
+}
+
+.devology{
+
+	font-size: 14px;
+
+	color: #904099;
+
+	font-weight: bold;
+
+}
+
+.markative{
+
+	font-size: 14px;
+
+	color: #F41014;
+
+	font-weight: bold;
+
+}
+
+.investeneur{
+
+	font-size: 14px;
+
+	color: #049500;
+
+	font-weight: bold;
+
+}
+
+.techsolve{
+
+	font-size: 14px;
+
+	color: #DBBE01;
+
+	font-weight: bold;
+
+}
+
+
+
+.allWorkshops .row{
+
+	margin-bottom: 50px;
+
+}
+
+.allWorkshops .row img{
+
+	margin-bottom: 10px;
+
+	padding: auto;
+
+}
+
+
+
+/* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ /* CREW */ 
+
+
+
+.allHeads{
+
+	margin-top: 120px;
+
+	margin-bottom: 120px;
+
+}
+
+.er,.ac {
+
+	margin-right: -20px;
+
+	cursor: pointer;
+
+}
+
+.hr,.tc {
+
+	margin-left: -20px;
+
+	cursor: pointer;
+
+}
+
+
+
+@media(max-width:767px){
+
+	.hr{
+
+		margin-left: 20px;
+
+	}
+
+	.er{
+
+		margin-right: 20px;
+
+	}
+
+	.tc{
+
+		margin-left: 20px;
+
+	}
+
+	.ac{
+
+		margin-right: 20px;
+
+	}
+
+}
+
+
+
+.col-md-5{
+
+	z-index: 9;
+
+}
+
+#crewDescription{
+
+	font-size: 16px;
+
+	color: #00005B;
+
+	font-weight: bold;
+
+	text-align: center;
+
+}
+
+
+
+.erheads,.tcheads{
+
+	margin-top: 20px;
+
+	margin-bottom: 20px;
+
+	display: none;
+
+}
+
+
+
+
+
+/* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT *//* ABOUT */
+
+
+
+
+
+.aboutPage{
+
+	background-image: url('../images/about.jpg');
+
+	background-position: center center;
+
+	height: 820px;
+
+}
+
+
+
+@media(max-width:768px){
+
+	.aboutPage{
+
+		background-image: url('../images/about.jpg');
+
+		background-position: center center;
+
+		height: 1700px;
+
+	}
+
+	.aboutPage .container img{
+
+		width: 80%;
+
+		margin-top: 150px;
+
+		margin-bottom: 70px;
+
+	}
+
+}
+
+.aboutInfo{
+
+	margin-top: 100px;
+
+}
+
+
+
+.aboutTitle{
+
+	color: white;
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+	margin-bottom: 80px;
+
+	padding-bottom: 15px;
+
+	border-bottom: 1px solid #c52525;
+
+}
+
+.aboutHead{
+
+	color: #c52525;
+
+	font-size: 24px;
+
+	font-weight: bold;
+
+}
+
+.aboutBody{
+
+	color: white;
+
+	font-size: 18px;
+
+	font-weight: bold;
+
+	margin-bottom: 30px;
+
+}
+
+
+
+.aboutPage img{
+
+	width: 70%;
+
+	margin-top: 200px;
+
+}
+
+
+
+.sponsorsSection .sponsors {
+
+
+
+  margin: 60px auto 120px;
+
+  border: 2px solid #c52525;
+
+  text-align: center;
+
+  padding: 50px 0 110px;
+
+  width: 90%;
+
+  max-width: 1100px;
+
+}
+
+
+.fond{position:absolute;padding-top:85px;top:0;left:0; right:0;bottom:0;
+ background-color:#00506b;}
+
+.style_prevu_kit
+{
+    display:inline-block;
+    border:0;
+    width:60%;
+    height:60%;
+    margin: 8px;
+    position: relative;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1); 
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1); 
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1);
+    transition: all 200ms ease-in;
+    transform: scale(1);   
+
+}
+.style_prevu_kit:hover
+{
+    box-shadow: 0px 0px 150px #888888;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.5);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.5);   
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.5);
+    transition: all 200ms ease-in;
+    transform: scale(1.5);
+}

@@ -1,0 +1,74 @@
+body { 
+	margin: 0;
+    padding:0; 
+    overflow-x: hidden;
+    
+}
+
+#theHeader {
+	min-height: 60px;
+	background: white;
+	border-bottom: 2px solid #c52525;
+}
+
+#theFooter{
+	margin-bottom: 0;
+	height: 60px;
+	background: white;
+	border-top: 1px solid #c52525;
+}
+.theLogo{
+	width: 60px;
+}
+.Members_Form
+{
+	width: 80%;
+	margin: 25px auto;
+	padding: 10px;
+	display: block;
+	 box-shadow: 5px 5px 25px #888888;
+	 border-radius: 3px;
+
+}
+.Members_Form h3
+{
+	display: block;
+	width: 100%;
+	text-align: center;
+	color: #565656 !important;
+}
+.row label
+{
+	margin:16px;
+	font-size: 26px;
+	margin-left: 5%;
+	color: #777777 !important;
+	
+}
+.row input 
+{
+	margin: 16px auto;
+	width: 90%;
+}
+.row textarea
+{
+	width: 90%;
+	margin: 16px auto;
+}
+.row select 
+{
+	width: 90%;
+	margin: 16px auto;
+}
+.row button
+{
+	display: block;
+	width: 50%;
+	margin:0px auto;
+	border-radius: 7px;
+	border:none;
+	color: #555555 !important;
+	background-color: #e1e1e1;
+	font-size: 32px;
+
+}

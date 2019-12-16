@@ -1,0 +1,54 @@
+h1, h3 {
+
+	color:#ebebeb;
+
+}
+
+h2
+
+{
+
+	font-family: "Agency FB";
+
+	font-weight: bold;
+
+	font-size:36px;
+
+	color:#00005b;
+
+}
+
+h4
+
+{
+
+	color: black;
+
+}
+
+#historyy div
+
+{
+
+	cursor:pointer;
+
+}
+
+#historyy div:hover {
+
+  background-color: #e75764;
+
+}
+
+#myModalLabel
+
+{
+
+	font-weight: bold;
+
+	font-size: 25px;
+
+	color:#c52525;
+
+}
+
